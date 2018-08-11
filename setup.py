@@ -18,7 +18,7 @@ requirements = [
 
 setup_requirements = ['pytest-runner', ]
 
-test_requirements = ['pytest', 'coverage',]
+test_requirements = ['pytest', 'coverage', 'responses', 'pytest-responses']
 
 setup(
     author="John Storey",
