@@ -7,7 +7,7 @@ Python client library for the `ICANN Registry Reporting Interface`_.
 .. image:: https://img.shields.io/pypi/v/rri.svg
         :target: https://pypi.python.org/pypi/rri
 
-.. image:: https://img.shields.io/travis/storeyio/rri.svg
+.. image:: https://img.shields.io/travis/storeyio/rri/master.svg
         :target: https://travis-ci.org/storeyio/rri
 
 
